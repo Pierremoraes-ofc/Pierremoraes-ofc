@@ -7,7 +7,14 @@
 
 
 ##
-
+<div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=PierreMoraes&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
+</a>
+<!--<a href="https://github.com/anuraghazra/convoychat">
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PierreMoraes&layout=compact&langs_count=16&theme=dark" />
+</a>-->
+</div>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=PierreMoraes&show_icons=true&theme=dark"
