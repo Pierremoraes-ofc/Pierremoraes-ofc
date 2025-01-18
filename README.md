@@ -55,9 +55,6 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/PierreMoraes/PierreMoraes/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
-  <!--
-  ![Snake animation](https://github.com/PierreMoraes/blog/output/github-contribution-grid-snake.svg)-->
-
 </div>
 
  
@@ -79,5 +76,8 @@
 </div>
 
  
+
+
+<br>
 
 <br>
