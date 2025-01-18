@@ -37,12 +37,12 @@
 <div align=center>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=PierreMoraes&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=Pierremoraes-ofc&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
 </a>
-  
-<!--<a href="https://github.com/anuraghazra/convoychat">
-  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PierreMoraes&layout=compact&langs_count=16&theme=dark" />
-</a>-->
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pierremoraes-ofc&layout=compact&langs_count=16&theme=dark" />
+</a>
   
 </div>
 
@@ -57,15 +57,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/PierreMoraes/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/platane/Pierremoraes-ofc/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/PierreMoraes/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/platane/Pierremoraes-ofc/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/PierreMoraes/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/platane/Pierremoraes-ofc/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
