@@ -1,13 +1,14 @@
 <div align="center">
 
 # 🌐 Choose your language  
-[🇺🇸 English](#english-version) │ [🇧🇷 Portuguese](#portuguese-version)
+[🇺🇸 English](#english-version) │ [🇧🇷 Portuguese](#versao-em-portugues)
+
 
 </div>
 
 ---
 
-# 🇺🇸 English Version (#english-version)
+# 🇺🇸 English Version
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=32&color=0AFF9D&center=true&vCenter=true&width=700&height=60&duration=3500&lines=Hello!+I'm+Pierre+Moraes+👋;Developer+%7C+AI+Enthusiast+%7C+Tech+Explorer;Welcome+to+my+Digital+Universe+🚀;" />
@@ -49,7 +50,7 @@ My goal is to integrate AI at all levels: **backend → data → dashboards → 
 
 ---
 
-# 🇧🇷 Versão em Português (#portuguese-version)
+# 🇧🇷 Versão em Português
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=32&color=0AFF9D&center=true&vCenter=true&width=700&height=60&duration=3500&lines=Ol%C3%A1!+Eu+sou+Pierre+Moraes+👋;Desenvolvedor+%7C+Apaixonado+por+I.A.;Bem-vindo+ao+meu+Universo+Digital+🚀;" />
