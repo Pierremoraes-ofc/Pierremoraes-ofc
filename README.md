@@ -1,176 +1,200 @@
 <div align="center">
 
-# 🌐 Choose your language  
-[🇺🇸 English](#english-version) │ [🇧🇷 Portuguese](#versao-em-portugues)
-
+# 🌐 Escolha o idioma | Choose your language  
+[🇧🇷 Português](#-versão-em-português) │ [🇺🇸 English](#-english-version)
 
 </div>
-
----
-
-# 🇺🇸 English Version
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=32&color=0AFF9D&center=true&vCenter=true&width=700&height=60&duration=3500&lines=Hello!+I'm+Pierre+Moraes+👋;Developer+%7C+AI+Enthusiast+%7C+Tech+Explorer;Welcome+to+my+Digital+Universe+🚀;" />
-</h1>
-
----
-
-<div align="center">
-🌌 <b>"Turning ideas into code, and code into intelligent systems."</b>
-</div>
-
----
-
-## 👨‍💻 About Me
-I'm a Brazilian developer passionate about automation, artificial intelligence, and modern technology.  
-I enjoy learning, experimenting, and building practical solutions that challenge my creativity.
-
-✨ **Highlights:**  
-- ☕ Coding + Coffee lover  
-- 🛰 Passionate about futuristic tech and automation  
-- 🎮 Gamer & mod enthusiast  
-- 📚 Systems Analysis & Development student  
-- 🔥 Always learning, always building  
-
----
-
-## 🤖 Artificial Intelligence & KPIs
-I’ve been actively implementing AI solutions inside my Smart Office 4.0 project.
-
-### ⚙️ My AI Capabilities:
-- 📊 Automatic KPI generation  
-- 🤖 Decision-making models with intelligent suggestions  
-- 🔍 Anomaly detection and performance evaluation  
-- 🧠 AI-powered dashboards and insights  
-- 🔔 Smart alerts  
-- ⚡ Optimization of costs, energy, and performance  
-
-My goal is to integrate AI at all levels: **backend → data → dashboards → decisions**.
 
 ---
 
 # 🇧🇷 Versão em Português
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=32&color=0AFF9D&center=true&vCenter=true&width=700&height=60&duration=3500&lines=Ol%C3%A1!+Eu+sou+Pierre+Moraes+👋;Desenvolvedor+%7C+Apaixonado+por+I.A.;Bem-vindo+ao+meu+Universo+Digital+🚀;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=SourceCodePro&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Ol%C3%A1!+👋;+Eu+sou+Pierre+Moraes!;+Bem-vindo+ao+meu+GitHub!;" />
 </h1>
 
 ---
 
+<h3 align="center">Sou um desenvolvedor brasileiro 🇧🇷</h3>
+
 <div align="center">
-🌌 <b>"Transformando ideias em código, e código em sistemas inteligentes."</b>
+  ☕ Amo codar e café  
+  <br/>
+  🏝 Sou do Rio de Janeiro, a <b>cidade maravilhosa</b> 😆  
+  <br/>
+  💻 Atualmente não atuo como dev no mercado, mas estou sempre estudando, codando e criando projetos pessoais  
+  <br/>
+  👨‍🎓 Estudante de <b>Análise e Desenvolvimento de Sistemas</b>  
+  <br/>
+  ⚡ Apaixonado por jogos e tecnologia 😍
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
-Sou um desenvolvedor brasileiro apaixonado por tecnologia, automação e inteligência artificial.  
-Adoro aprender, criar projetos reais e evoluir dia após dia.
+## 🌐 Onde me encontrar
 
-✨ **Destaques:**  
-- ☕ Amor por programação e café  
-- 🛰 Fascinado por tecnologias futuristas  
-- 🎮 Gamer e criador de mods  
-- 📚 Estudante de ADS  
-- 🔥 Sempre estudando e criando  
-
----
-
-## 🤖 Inteligência Artificial & KPIs
-Estou aplicando IA de forma prática dentro do projeto Smart Office 4.0.
-
-### ⚙️ Minhas habilidades em IA:
-- 📊 Geração automática de KPIs  
-- 🤖 Modelos de decisão inteligentes  
-- 🔍 Detecção de anomalias e desempenho  
-- 🧠 Dashboards inteligentes com insights automáticos  
-- 🔔 Alertas inteligentes  
-- ⚡ Otimizações automáticas (custos, energia, produtividade…)  
-
-Meu objetivo é integrar IA em todas as camadas: **backend → dados → dashboards → decisões**.
+<div align="center"> 
+  <a href="https://instagram.com/pierremoraes.ofc" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.twitch.tv/pierremoraes.ofc" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+  </a>
+  <a href="https://discord.gg/DQ5avyc" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a> 
+  <a href="mailto:brunopierremoraes@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://br.linkedin.com/in/pierre-moraes-483b21263" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+</div>
 
 ---
 
----
+## 🧑‍💻 Sobre mim
 
-# 🛠️ Tech Stack & Skills
-
-<div align="center">
-
-### 💻 Programming Languages  
-<img title="PHP" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-<img title="JavaScript" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img title="Python" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img title="Lua" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"/>
-<img title="C" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img title="C#" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-<img title="C++" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+- 🔭 Sempre praticando programação com projetos pessoais  
+- 📚 Focado em evoluir como desenvolvedor back-end e full stack  
+- 🧠 Interesses em automação, web, jogos, boas práticas e metodologias ágeis  
+- 🎮 No tempo livre: jogando, testando mods e explorando novas tecnologias  
 
 ---
 
-### 🎨 Front-end & Mobile  
-<img title="HTML5" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img title="CSS3" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img title="Angular" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-<img title="Ionic" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg"/>
-<img title="Apache Cordova" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg"/>
+## 🛠 Tecnologias que conheço
 
-*(Cordova does not have an official devicon icon; Apache icon used.)*
-
----
-
-### 🛢️ Databases & Tools  
-<img title="MySQL" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img title="HeidiSQL" height="45" src="https://cdn.brandfetch.io/idCwRGvRKO/w/1200/h/1200/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1756417184772"/>
-<img title="MySQL Workbench" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-
----
-
-### 🐧 Operating Systems  
-<img title="Linux" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img title="Microsoft" height="45" src="https://cdn.brandfetch.io/idO_D7E2El/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1756706088669"/>
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="center" alt="CSharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="CPlusPlus" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img align="center" alt="Lua" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
+</div>
 
 ---
 
-### 📘 Methodologies  
+### 📚 Metodologias & Organização
+
 - 🚀 Scrum  
 - 📌 Kanban  
 - 📘 PMBOK  
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pierremoraes-ofc&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pierremoraes-ofc&layout=compact&langs_count=10&theme=dark" />
 </div>
 
 ---
 
 <div align="center">
-  <a href="https://instagram.com/pierremoraes.ofc">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.twitch.tv/pierremoraes.ofc">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/DQ5avyc">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="mailto:brunopierremoraes@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=D14836" />
-  </a>
-  <a href="https://linkedin.com/in/pierre-moraes-483b21263">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <i>Obrigado por visitar meu perfil! ✨</i>
 </div>
 
 ---
 
-# 📊 GitHub Stats
+---
+
+# 🇺🇸 English Version
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=SourceCodePro&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello!+👋;+I'm+Pierre+Moraes!;+Welcome+to+my+GitHub!;" />
+</h1>
+
+---
+
+<h3 align="center">I am a Brazilian developer 🇧🇷</h3>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pierremoraes-ofc&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierremoraes-ofc&layout=compact&theme=tokyonight"/>
+  ☕ I love coding and coffee  
+  <br/>
+  🏝 I’m from Rio de Janeiro, the <b>wonderful city</b> 😆  
+  <br/>
+  💻 Not currently working as a developer, but always coding and building personal projects  
+  <br/>
+  👨‍🎓 Studying <b>Systems Analysis and Development</b>  
+  <br/>
+  ⚡ Passionate about games and technology 😍
+</div>
+
+---
+
+## 🌐 Where to find me
+
+<div align="center"> 
+  <a href="https://instagram.com/pierremoraes.ofc" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.twitch.tv/pierremoraes.ofc" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+  </a>
+  <a href="https://discord.gg/DQ5avyc" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a> 
+  <a href="mailto:brunopierremoraes@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://br.linkedin.com/in/pierre-moraes-483b21263" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+</div>
+
+---
+
+## 🧑‍💻 About me
+
+- 🔭 Always practicing programming with personal projects  
+- 📚 Focused on improving as a back-end and full-stack developer  
+- 🧠 Interested in automation, web development, games, best practices, and agile methods  
+- 🎮 In my free time: gaming, testing mods, and exploring new tech  
+
+---
+
+## 🛠 Technologies I know
+
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="center" alt="CSharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="CPlusPlus" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img align="center" alt="Lua" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
+</div>
+
+---
+
+### 📚 Methodologies & Organization
+
+- 🚀 Scrum  
+- 📌 Kanban  
+- 📘 PMBOK  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pierremoraes-ofc&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pierremoraes-ofc&layout=compact&langs_count=10&theme=dark" />
 </div>
 
 ---
 
 <div align="center">
-  <h3>⚡ Stay futuristic. Thanks for visiting! ⚡</h3>
+  <i>Thanks for visiting my profile! ✨</i>
 </div>
