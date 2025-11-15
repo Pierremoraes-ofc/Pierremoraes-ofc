@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🌐 Choose your language  
-[🇺🇸 English](#english-version) │ [🇧🇷 Portuguese](#versao-em-portugues)
+[🇧🇷 Português](#-versão-em-português) │ [🇺🇸 English](#-english-version)
 
 
 </div>
