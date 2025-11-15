@@ -1,210 +1,185 @@
-<!-- ========================= BANNER FUTURISTA ========================= -->
-
-<p align="center">
-  <img src="https://i.imgur.com/Hy90Kj4.gif" width="100%" alt="Futuristic Banner">
-</p>
-
 <div align="center">
 
-# 🌐 Escolha o idioma | Choose your language  
-[🇧🇷 Português](#-versão-em-português) │ [🇺🇸 English](#-english-version)
+# 🌐 Choose your language  
+[🇺🇸 English](#-english-version--futuristic) │ [🇧🇷 Português](#-versão-em-português--futurista)
 
 </div>
 
 ---
 
-# 🇧🇷 Versão em Português
+# 🇺🇸 English Version — Futuristic ⚡
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=SourceCodePro&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Ol%C3%A1!+👋;+Eu+sou+Pierre+Moraes!;+Bem-vindo+ao+meu+GitHub!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=32&color=0AFF9D&center=true&vCenter=true&width=700&height=60&duration=3500&lines=Hello!+I'm+Pierre+Moraes+👋;Developer+%7C+AI+Enthusiast+%7C+Tech+Explorer;Welcome+to+my+Digital+Universe+🚀;" />
 </h1>
 
 ---
 
-<h3 align="center">Sou um desenvolvedor brasileiro 🇧🇷</h3>
-
 <div align="center">
-  ☕ Amo codar e café  
-  <br/>
-  🏝 Sou do Rio de Janeiro, a <b>cidade maravilhosa</b> 😆  
-  <br/>
-  💻 Sempre estudando, codando e criando projetos pessoais  
-  <br/>
-  👨‍🎓 Estudante de <b>Análise e Desenvolvimento de Sistemas</b>  
-  <br/>
-  ⚡ Apaixonado por IA, jogos e tecnologia 😍
+
+🌌 **"Turning ideas into code, and code into intelligent systems."**
+
 </div>
 
 ---
 
-## 🤖 Inteligência Artificial & KPIs
+## 👨‍💻 About Me
+I'm a passionate Brazilian developer focused on building modern, automated and intelligent systems.  
+I love studying new technologies, creating real projects, and pushing myself to grow every day.
 
-Nos últimos meses venho estudando e aplicando **Inteligência Artificial** em vários projetos — especialmente no **Smart Office 4.0 / Hybrid 4.0**.
-
-### O que venho praticando:
-
-- 📊 **Geração automática de KPIs**
-- 🤖 **Modelos de decisão inteligentes com IA**
-- 🧠 **Análise de dados e insights automatizados**
-- 🔍 **Identificação de anomalias, excedentes e padrões**
-- 📈 **Dashboards que recomendam ações**
-- ⚙️ **Automação de processos usando IA aplicada a negócios**
-
-### Automação inteligente que estou implementando:
-
-- Avaliar desempenho de setores em tempo real  
-- Gerar alertas automáticos usando IA  
-- Criar relatórios de decisão totalmente automatizados  
-- Sugestões de otimização em energia, produtividade e custos  
-- Relatórios completos com lógica baseada em métricas reais  
-
-💡 Meu objetivo é integrar IA em cada área dos meus projetos — back-end, dashboards e automação empresarial.
-
----
-
-## 🧑‍💻 Sobre mim
-
-- 🔭 Sempre praticando programação  
-- 📚 Evoluindo para atuar como desenvolvedor back-end e full stack  
-- 🎮 Paixão por jogos, sistemas e criação de ferramentas  
-- 🧩 Gosto de resolver problemas complexos  
-
----
-
-## 🛠 Tecnologias que conheço
-
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" alt="CSharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="CPlusPlus" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img align="center" alt="Lua" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
-</div>
-
----
-
-### 📚 Metodologias & Organização
-
-- 🚀 Scrum  
-- 📌 Kanban  
-- 📘 PMBOK  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pierremoraes-ofc&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pierremoraes-ofc&layout=compact&langs_count=10&theme=dark" />
-</div>
-
----
-
-<div align="center">
-  <i>Obrigado por visitar meu perfil! ✨</i>
-</div>
-
----
-
-# 🇺🇸 English Version
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=SourceCodePro&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello!+👋;+I'm+Pierre+Moraes!;+Welcome+to+my+GitHub!;" />
-</h1>
-
----
-
-<h3 align="center">I am a Brazilian developer 🇧🇷</h3>
-
-<div align="center">
-  ☕ I love coding and coffee  
-  <br/>
-  🏝 I’m from Rio de Janeiro, the <b>wonderful city</b> 😆  
-  <br/>
-  💻 Always learning, coding and building personal projects  
-  <br/>
-  👨‍🎓 Studying <b>Systems Analysis and Development</b>  
-  <br/>
-  ⚡ Passionate about AI, games and technology 😍
-</div>
+✨ **What defines me:**  
+- ☕ Love for coding + coffee  
+- 🛰 Passion for futuristic tech, automation and AI  
+- 🎮 Gamer & mod enthusiast  
+- 📚 Systems Analysis & Development student  
+- 🔥 Always learning and experimenting  
 
 ---
 
 ## 🤖 Artificial Intelligence & KPIs
+AI is becoming a key part of my projects — especially **Smart Office 4.0**, where I apply intelligent automation and decision-making.
 
-Recently, I have been studying and implementing **Artificial Intelligence** inside real systems, especially in **Smart Office 4.0 / Hybrid 4.0**.
+### ⚙️ My current AI practices:
+- 📊 Automatic KPI generation  
+- 🤖 Decision models that identify critical points  
+- 🧠 AI-driven insights for dashboards  
+- 🔍 Data classification and smart analysis  
+- 🔔 Alerts triggered by anomaly detection  
+- ⚡ Automated suggestions for optimization (cost, energy, performance…)
 
-### What I'm working with:
-
-- 📊 **Automatic KPI generation**
-- 🤖 **AI-powered decision-making models**
-- 🧠 **Automated data insights**
-- 🔍 **Anomaly and pattern detection**
-- 📈 **Dashboards that recommend actions using AI**
-- ⚙️ **Process automation for business intelligence**
-
-### AI features I’m creating:
-
-- Real-time sector performance evaluation  
-- Automatic alerts generated by AI  
-- Fully automated decision reports  
-- Optimization suggestions (energy, costs, productivity)  
-- Intelligent metrics-based analysis  
-
-💡 My goal is to integrate AI into every stage of my projects — backend, dashboards and business automation.
+I aim to fully integrate **AI in all stages**: back-end → data → dashboards → decision.
 
 ---
 
-## 🧑‍💻 About me
+## 🛠️ Tech Stack & Skills
+<div align="center" style="display:flex;gap:20px;">
 
-- 🔭 Always practicing programming  
-- 📚 Growing into backend & full-stack development  
-- 🎮 Passionate about games, systems and tools  
-- 🧩 I enjoy solving complex problems  
+### 💻 Languages  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
 
----
+### 🌐 Front-end / Back-end  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
 
-## 🛠 Technologies I know
-
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" alt="CSharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="CPlusPlus" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img align="center" alt="Lua" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
-</div>
-
----
-
-### 📚 Methodologies & Organization
-
+### 🧭 Methodologies  
 - 🚀 Scrum  
 - 📌 Kanban  
 - 📘 PMBOK  
 
+</div>
+
+---
+
+## 🌐 Social Links
+<div align="center">
+  <a href="https://instagram.com/pierremoraes.ofc">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.twitch.tv/pierremoraes.ofc">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/DQ5avyc">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="mailto:brunopierremoraes@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=D14836" />
+  </a>
+  <a href="https://linkedin.com/in/pierre-moraes-483b21263">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pierremoraes-ofc&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pierremoraes-ofc&layout=compact&langs_count=10&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pierremoraes-ofc&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierremoraes-ofc&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
 
 <div align="center">
-  <i>Thanks for visiting my profile! ✨</i>
+  <img src="https://raw.githubusercontent.com/platane/Pierremoraes-ofc/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+---
+
+<div align="center">
+  <h3>✨ Thanks for visiting my profile! Stay futuristic. ⚡</h3>
+</div>
+
+---
+
+---
+
+# 🇧🇷 Versão em Português — Futurista ⚡
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=32&color=0AFF9D&center=true&vCenter=true&width=700&height=60&duration=3500&lines=Ol%C3%A1!+Eu+sou+Pierre+Moraes+👋;Desenvolvedor+%7C+Apaixonado+por+I.A.;Bem-vindo+ao+meu+Universo+Digital+🚀;" />
+</h1>
+
+---
+
+<div align="center">
+
+🌌 **"Transformando ideias em código, e código em sistemas inteligentes."**
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+Sou um desenvolvedor brasileiro apaixonado por tecnologia, automação e inteligência artificial.  
+Amo aprender, criar projetos reais e buscar evoluir todos os dias.
+
+✨ **Meus destaques:**  
+- ☕ Amor por programação e café  
+- 🛰 Curioso por tecnologias futuristas  
+- 🎮 Gamer e modder  
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas  
+- 🔥 Sempre estudando, sempre criando  
+
+---
+
+## 🤖 Inteligência Artificial & KPIs
+A IA está se tornando uma parte essencial dos meus projetos — especialmente no **Smart Office 4.0**, onde aplico automação e tomada de decisão inteligente.
+
+### ⚙️ O que venho desenvolvendo:
+- 📊 Geração automática de KPIs  
+- 🤖 Modelos de decisão e insights inteligentes  
+- 🔍 Análise de dados e detecção de anomalias  
+- 🔔 Alertas inteligentes em tempo real  
+- 📈 Dashboards dinâmicos com recomendações automáticas  
+- ⚡ Otimização de energia, desempenho e custos usando IA  
+
+Minha meta é integrar **IA em todas as etapas**: backend → dados → dashboards → decisões.
+
+---
+
+## 🛠️ Minha Stack
+*(idêntica à versão inglesa, mantida para consistência)*
+
+---
+
+## 🌐 Redes Sociais
+*(idêntico ao modelo inglês para manter design)*
+
+---
+
+## 📊 Estatísticas do GitHub
+*(mesmos cards, com tema futurista Tokyonight)*
+
+---
+
+<div align="center">
+  <h3>✨ Obrigado por visitar meu perfil! Continue evoluindo. ⚡</h3>
 </div>
