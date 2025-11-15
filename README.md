@@ -1,13 +1,13 @@
 <div align="center">
 
 # 🌐 Choose your language  
-[🇺🇸 English](#-english-version--futuristic) │ [🇧🇷 Português](#-versão-em-português--futurista)
+[🇺🇸 English](#english-version) │ [🇧🇷 Portuguese](#portuguese-version)
 
 </div>
 
 ---
 
-# 🇺🇸 English Version — Futuristic ⚡
+# 🇺🇸 English Version {#english-version}
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=32&color=0AFF9D&center=true&vCenter=true&width=700&height=60&duration=3500&lines=Hello!+I'm+Pierre+Moraes+👋;Developer+%7C+AI+Enthusiast+%7C+Tech+Explorer;Welcome+to+my+Digital+Universe+🚀;" />
@@ -16,60 +16,123 @@
 ---
 
 <div align="center">
-
-🌌 **"Turning ideas into code, and code into intelligent systems."**
-
+🌌 <b>"Turning ideas into code, and code into intelligent systems."</b>
 </div>
 
 ---
 
 ## 👨‍💻 About Me
-I'm a passionate Brazilian developer focused on building modern, automated and intelligent systems.  
-I love studying new technologies, creating real projects, and pushing myself to grow every day.
+I'm a Brazilian developer passionate about automation, artificial intelligence, and modern technology.  
+I enjoy learning, experimenting, and building practical solutions that challenge my creativity.
 
-✨ **What defines me:**  
-- ☕ Love for coding + coffee  
-- 🛰 Passion for futuristic tech, automation and AI  
+✨ **Highlights:**  
+- ☕ Coding + Coffee lover  
+- 🛰 Passionate about futuristic tech and automation  
 - 🎮 Gamer & mod enthusiast  
 - 📚 Systems Analysis & Development student  
-- 🔥 Always learning and experimenting  
+- 🔥 Always learning, always building  
 
 ---
 
 ## 🤖 Artificial Intelligence & KPIs
-AI is becoming a key part of my projects — especially **Smart Office 4.0**, where I apply intelligent automation and decision-making.
+I’ve been actively implementing AI solutions inside my Smart Office 4.0 project.
 
-### ⚙️ My current AI practices:
+### ⚙️ My AI Capabilities:
 - 📊 Automatic KPI generation  
-- 🤖 Decision models that identify critical points  
-- 🧠 AI-driven insights for dashboards  
-- 🔍 Data classification and smart analysis  
-- 🔔 Alerts triggered by anomaly detection  
-- ⚡ Automated suggestions for optimization (cost, energy, performance…)
+- 🤖 Decision-making models with intelligent suggestions  
+- 🔍 Anomaly detection and performance evaluation  
+- 🧠 AI-powered dashboards and insights  
+- 🔔 Smart alerts  
+- ⚡ Optimization of costs, energy, and performance  
 
-I aim to fully integrate **AI in all stages**: back-end → data → dashboards → decision.
+My goal is to integrate AI at all levels: **backend → data → dashboards → decisions**.
 
 ---
 
-## 🛠️ Tech Stack & Skills
-<div align="center" style="display:flex;gap:20px;">
+# 🇧🇷 Versão em Português {#portuguese-version}
 
-### 💻 Languages  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=32&color=0AFF9D&center=true&vCenter=true&width=700&height=60&duration=3500&lines=Ol%C3%A1!+Eu+sou+Pierre+Moraes+👋;Desenvolvedor+%7C+Apaixonado+por+I.A.;Bem-vindo+ao+meu+Universo+Digital+🚀;" />
+</h1>
 
-### 🌐 Front-end / Back-end  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+---
 
-### 🧭 Methodologies  
+<div align="center">
+🌌 <b>"Transformando ideias em código, e código em sistemas inteligentes."</b>
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+Sou um desenvolvedor brasileiro apaixonado por tecnologia, automação e inteligência artificial.  
+Adoro aprender, criar projetos reais e evoluir dia após dia.
+
+✨ **Destaques:**  
+- ☕ Amor por programação e café  
+- 🛰 Fascinado por tecnologias futuristas  
+- 🎮 Gamer e criador de mods  
+- 📚 Estudante de ADS  
+- 🔥 Sempre estudando e criando  
+
+---
+
+## 🤖 Inteligência Artificial & KPIs
+Estou aplicando IA de forma prática dentro do projeto Smart Office 4.0.
+
+### ⚙️ Minhas habilidades em IA:
+- 📊 Geração automática de KPIs  
+- 🤖 Modelos de decisão inteligentes  
+- 🔍 Detecção de anomalias e desempenho  
+- 🧠 Dashboards inteligentes com insights automáticos  
+- 🔔 Alertas inteligentes  
+- ⚡ Otimizações automáticas (custos, energia, produtividade…)  
+
+Meu objetivo é integrar IA em todas as camadas: **backend → dados → dashboards → decisões**.
+
+---
+
+---
+
+# 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+### 💻 Programming Languages  
+<img title="PHP" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+<img title="JavaScript" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img title="Python" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img title="Lua" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"/>
+<img title="C" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img title="C#" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<img title="C++" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+
+---
+
+### 🎨 Front-end & Mobile  
+<img title="HTML5" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img title="CSS3" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img title="Angular" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+<img title="Ionic" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg"/>
+<img title="Apache Cordova" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg"/>
+
+*(Cordova does not have an official devicon icon; Apache icon used.)*
+
+---
+
+### 🛢️ Databases & Tools  
+<img title="MySQL" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img title="HeidiSQL" height="45" src="https://cdn.brandfetch.io/idCwRGvRKO/w/1200/h/1200/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1756417184772"/>
+<img title="MySQL Workbench" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+
+---
+
+### 🐧 Operating Systems  
+<img title="Linux" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img title="Microsoft" height="45" src="https://cdn.brandfetch.io/idO_D7E2El/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1756706088669"/>
+
+---
+
+### 📘 Methodologies  
 - 🚀 Scrum  
 - 📌 Kanban  
 - 📘 PMBOK  
@@ -78,7 +141,6 @@ I aim to fully integrate **AI in all stages**: back-end → data → dashboards 
 
 ---
 
-## 🌐 Social Links
 <div align="center">
   <a href="https://instagram.com/pierremoraes.ofc">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -99,7 +161,8 @@ I aim to fully integrate **AI in all stages**: back-end → data → dashboards 
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pierremoraes-ofc&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierremoraes-ofc&layout=compact&theme=tokyonight"/>
@@ -108,78 +171,5 @@ I aim to fully integrate **AI in all stages**: back-end → data → dashboards 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/Pierremoraes-ofc/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
-
-<div align="center">
-  <h3>✨ Thanks for visiting my profile! Stay futuristic. ⚡</h3>
-</div>
-
----
-
----
-
-# 🇧🇷 Versão em Português — Futurista ⚡
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=32&color=0AFF9D&center=true&vCenter=true&width=700&height=60&duration=3500&lines=Ol%C3%A1!+Eu+sou+Pierre+Moraes+👋;Desenvolvedor+%7C+Apaixonado+por+I.A.;Bem-vindo+ao+meu+Universo+Digital+🚀;" />
-</h1>
-
----
-
-<div align="center">
-
-🌌 **"Transformando ideias em código, e código em sistemas inteligentes."**
-
-</div>
-
----
-
-## 👨‍💻 Sobre mim
-Sou um desenvolvedor brasileiro apaixonado por tecnologia, automação e inteligência artificial.  
-Amo aprender, criar projetos reais e buscar evoluir todos os dias.
-
-✨ **Meus destaques:**  
-- ☕ Amor por programação e café  
-- 🛰 Curioso por tecnologias futuristas  
-- 🎮 Gamer e modder  
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas  
-- 🔥 Sempre estudando, sempre criando  
-
----
-
-## 🤖 Inteligência Artificial & KPIs
-A IA está se tornando uma parte essencial dos meus projetos — especialmente no **Smart Office 4.0**, onde aplico automação e tomada de decisão inteligente.
-
-### ⚙️ O que venho desenvolvendo:
-- 📊 Geração automática de KPIs  
-- 🤖 Modelos de decisão e insights inteligentes  
-- 🔍 Análise de dados e detecção de anomalias  
-- 🔔 Alertas inteligentes em tempo real  
-- 📈 Dashboards dinâmicos com recomendações automáticas  
-- ⚡ Otimização de energia, desempenho e custos usando IA  
-
-Minha meta é integrar **IA em todas as etapas**: backend → dados → dashboards → decisões.
-
----
-
-## 🛠️ Minha Stack
-*(idêntica à versão inglesa, mantida para consistência)*
-
----
-
-## 🌐 Redes Sociais
-*(idêntico ao modelo inglês para manter design)*
-
----
-
-## 📊 Estatísticas do GitHub
-*(mesmos cards, com tema futurista Tokyonight)*
-
----
-
-<div align="center">
-  <h3>✨ Obrigado por visitar meu perfil! Continue evoluindo. ⚡</h3>
+  <h3>⚡ Stay futuristic. Thanks for visiting! ⚡</h3>
 </div>
