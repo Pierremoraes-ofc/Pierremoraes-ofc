@@ -1,8 +1,7 @@
 <div align="center">
 
 # 🌐 Choose your language  
-[🇧🇷 Português](#-versão-em-português) │ [🇺🇸 English](#-english-version)
-
+[🇺🇸 English](#english-version) │ [🇧🇷 Portuguese](#versao-em-portugues)
 
 </div>
 
@@ -47,6 +46,8 @@ I’ve been actively implementing AI solutions inside my Smart Office 4.0 projec
 - ⚡ Optimization of costs, energy, and performance  
 
 My goal is to integrate AI at all levels: **backend → data → dashboards → decisions**.
+
+---
 
 ---
 
@@ -116,20 +117,17 @@ Meu objetivo é integrar IA em todas as camadas: **backend → dados → dashboa
 <img title="Ionic" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg"/>
 <img title="Apache Cordova" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg"/>
 
-*(Cordova does not have an official devicon icon; Apache icon used.)*
-
 ---
 
 ### 🛢️ Databases & Tools  
 <img title="MySQL" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img title="HeidiSQL" height="45" src="https://cdn.brandfetch.io/idCwRGvRKO/w/1200/h/1200/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1756417184772"/>
 <img title="MySQL Workbench" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img title="HeidiSQL" height="45" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/heidisql_macos_bigsur_icon_189826.png"/>
 
 ---
 
 ### 🐧 Operating Systems  
 <img title="Linux" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img title="Microsoft" height="45" src="https://cdn.brandfetch.io/idO_D7E2El/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1756706088669"/>
 
 ---
 
@@ -141,6 +139,8 @@ Meu objetivo é integrar IA em todas as camadas: **backend → dados → dashboa
 </div>
 
 ---
+
+# 🌐 Social Links
 
 <div align="center">
   <a href="https://instagram.com/pierremoraes.ofc">
@@ -167,6 +167,12 @@ Meu objetivo é integrar IA em todas as camadas: **backend → dados → dashboa
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pierremoraes-ofc&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierremoraes-ofc&layout=compact&theme=tokyonight"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/Pierremoraes-ofc/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
