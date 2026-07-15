@@ -165,8 +165,16 @@ Meu objetivo é integrar IA em todas as camadas: **backend → dados → dashboa
 # 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Pierremoraes-ofc&theme=dark&hide_border=true" alt="Pierremoraes-ofc's GitHub Stats" />
-  <img src= "https://awesome-github-stats.azurewebsites.net/user-stats/Pierremoraes-ofc?cardType=level&theme=dark&fontFamily=Source%20Code%20Pro&preferLogin=false" alt="Pierremoraes-ofc's GitHub Stats" />
+  <img
+    src="https://streak-stats.demolab.com?user=Pierremoraes-ofc&theme=dark&hide_border=true"
+    alt="GitHub Streak"
+    width="390"
+  />
+  <img
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/Pierremoraes-ofc?cardType=level&theme=dark&fontFamily=Source%20Code%20Pro&preferLogin=false"
+    alt="GitHub Level"
+    width="390"
+  />
 </div>
 
 <div align="center">
