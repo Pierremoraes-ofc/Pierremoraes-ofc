@@ -169,10 +169,15 @@ Meu objetivo é integrar IA em todas as camadas: **backend → dados → dashboa
   <img src= "https://awesome-github-stats.azurewebsites.net/user-stats/Pierremoraes-ofc?cardType=level&theme=dark&fontFamily=Source%20Code%20Pro&preferLogin=false" alt="Pierremoraes-ofc's GitHub Stats" />
 </div>
 
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pierremoraes-ofc/Pierremoraes-ofc/output/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pierremoraes-ofc/Pierremoraes-ofc/output/snake.svg">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Pierremoraes-ofc/Pierremoraes-ofc/output/snake.svg">
 </picture>
+
+</div>
 
 
 ---
