@@ -165,8 +165,8 @@ Meu objetivo é integrar IA em todas as camadas: **backend → dados → dashboa
 # 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pierremoraes-ofc&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierremoraes-ofc&layout=compact&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=Pierremoraes-ofc&theme=dark&hide_border=true" alt="Pierremoraes-ofc's GitHub Stats" />
+  <img src= "https://github-stats-extended.vercel.app/api?username=Pierremoraes-ofc&theme=dark&show_icons=true&include_all_commits=true" alt="Pierremoraes-ofc's GitHub Stats" />
 </div>
 
 ---
